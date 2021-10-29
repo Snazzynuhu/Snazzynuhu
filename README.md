@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Snazzynuhu
-- 👀 I’m interested in becoming a front-end developer
-- 🌱 I’m currently learning css
+- 👀 I’m a front-end developer
 - 💞️ I’m looking to collaborate on frontend projects
+- Open to freelance jobs
 - 📫 How to reach me harunanuhu17@gmail.com
 
 <!---
