@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Snazzynuhu
 - 👀 I’m a front-end developer
-- 💞️ I’m looking to collaborate on frontend projects
+- 💞️ I’m willing to collaborate on intriguing projects
 - Open to freelance jobs
 - 📫 How to reach me harunanuhu17@gmail.com
 
