@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Snazzynuhu
-- 👀 I will code for food.
-- 💞️ I’m willing to collaborate on intriguing projects
+ 👋 Hi, I’m @Snazzynuhu
+ 👀 I will code for food.
+ 💞️ I’m willing to collaborate on intriguing projects
 
 
 <!---
